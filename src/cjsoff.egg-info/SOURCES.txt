@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+src/cjsoff.egg-info/PKG-INFO
+src/cjsoff.egg-info/SOURCES.txt
+src/cjsoff.egg-info/dependency_links.txt
+src/cjsoff.egg-info/requires.txt
+src/cjsoff.egg-info/top_level.txt
